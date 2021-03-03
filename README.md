@@ -18,7 +18,3 @@ npm ci
 # run automated tests via jest using npm
 npm test
 ```
-
-## Join Me
-
-[![Discord Badge](https://github.com/Rayzr522/ProjectResources/raw/master/RayzrDev/badge-small.png)](https://rayzr.dev/join)
